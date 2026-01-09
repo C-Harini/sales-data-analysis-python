@@ -1,0 +1,101 @@
+order_id,order_date,product_name,category,quantity,unit_price,total_amount
+1001,2025-01-15,Mouse,Electronics,1,500,500
+1002,2025-01-04,Printer,Electronics,14,22000,308000
+1003,2025-01-20,Mouse,Electronics,1,500,500
+1004,2025-02-23,Desk,Furniture,8,18000,144000
+1005,2025-02-09,Pen Pack,Stationery,1,20,20
+1006,2025-02-09,Printer,Electronics,14,22000,308000
+1007,2025-01-07,Pen Pack,Stationery,30,20,600
+1008,2025-01-20,Pen Pack,Stationery,21,20,420
+1009,2025-02-08,Office Chair,Furniture,22,12000,264000
+1010,2025-01-02,Office Chair,Furniture,28,12000,336000
+1011,2025-02-17,Mouse,Electronics,12,500,6000
+1012,2025-01-16,Notebook,Stationery,3,100,300
+1013,2025-01-11,Notebook,Stationery,1,100,100
+1014,2025-01-17,Desk,Furniture,27,18000,486000
+1015,2025-02-10,Printer,Electronics,10,22000,220000
+1016,2025-01-11,Printer,Electronics,26,22000,572000
+1017,2025-02-08,Monitor,Electronics,17,15000,255000
+1018,2025-01-07,Printer,Electronics,27,22000,594000
+1019,2025-02-22,Pen Pack,Stationery,2,20,40
+1020,2025-02-19,Printer,Electronics,25,22000,550000
+1021,2025-01-06,Notebook,Stationery,18,100,1800
+1022,2025-01-05,Office Chair,Furniture,20,12000,240000
+1023,2025-03-01,Office Chair,Furniture,16,12000,192000
+1024,2025-01-01,Laptop,Electronics,26,55000,1430000
+1025,2025-01-29,Notebook,Stationery,15,100,1500
+1026,2025-01-27,File Folder,Stationery,27,30,810
+1027,2025-01-23,Pen Pack,Stationery,30,20,600
+1028,2025-02-10,File Folder,Stationery,29,30,870
+1029,2025-01-20,Mouse,Electronics,22,500,11000
+1030,2025-02-06,Notebook,Stationery,12,100,1200
+1031,2025-02-10,Mouse,Electronics,15,500,7500
+1032,2025-02-11,File Folder,Stationery,28,30,840
+1033,2025-03-01,Monitor,Electronics,17,15000,255000
+1034,2025-01-02,Office Chair,Furniture,24,12000,288000
+1035,2025-01-07,File Folder,Stationery,14,30,420
+1036,2025-02-03,Monitor,Electronics,25,15000,375000
+1037,2025-02-12,Monitor,Electronics,18,15000,270000
+1038,2025-01-05,Laptop,Electronics,25,55000,1375000
+1039,2025-01-08,Office Chair,Furniture,24,12000,288000
+1040,2025-01-24,Laptop,Electronics,28,55000,1540000
+1041,2025-02-06,Keyboard,Electronics,21,1500,31500
+1042,2025-01-30,Keyboard,Electronics,20,1500,30000
+1043,2025-01-15,Pen Pack,Stationery,30,20,600
+1044,2025-02-21,Monitor,Electronics,16,15000,240000
+1045,2025-01-05,Keyboard,Electronics,15,1500,22500
+1046,2025-01-01,Laptop,Electronics,16,55000,880000
+1047,2025-01-15,Mouse,Electronics,30,500,15000
+1048,2025-01-10,Keyboard,Electronics,21,1500,31500
+1049,2025-01-28,Desk,Furniture,21,18000,378000
+1050,2025-01-10,Laptop,Electronics,29,55000,1595000
+1051,2025-01-28,Mouse,Electronics,1,500,500
+1052,2025-01-21,Desk,Furniture,26,18000,468000
+1053,2025-02-18,Desk,Furniture,17,18000,306000
+1054,2025-02-03,Pen Pack,Stationery,3,20,60
+1055,2025-02-04,Keyboard,Electronics,28,1500,42000
+1056,2025-01-25,Laptop,Electronics,23,55000,1265000
+1057,2025-02-19,Pen Pack,Stationery,23,20,460
+1058,2025-03-01,Monitor,Electronics,1,15000,15000
+1059,2025-01-14,Notebook,Stationery,15,100,1500
+1060,2025-02-21,Mouse,Electronics,19,500,9500
+1061,2025-02-15,Office Chair,Furniture,11,12000,132000
+1062,2025-02-02,Pen Pack,Stationery,5,20,100
+1063,2025-01-02,Office Chair,Furniture,17,12000,204000
+1064,2025-01-19,Pen Pack,Stationery,12,20,240
+1065,2025-03-02,Pen Pack,Stationery,12,20,240
+1066,2025-01-27,Keyboard,Electronics,3,1500,4500
+1067,2025-01-24,Laptop,Electronics,11,55000,605000
+1068,2025-01-26,File Folder,Stationery,20,30,600
+1069,2025-02-19,Mouse,Electronics,17,500,8500
+1070,2025-02-18,Desk,Furniture,17,18000,306000
+1071,2025-01-16,Printer,Electronics,28,22000,616000
+1072,2025-01-23,Pen Pack,Stationery,13,20,260
+1073,2025-03-02,File Folder,Stationery,10,30,300
+1074,2025-02-08,Printer,Electronics,18,22000,396000
+1075,2025-01-18,Monitor,Electronics,29,15000,435000
+1076,2025-02-23,Office Chair,Furniture,12,12000,144000
+1077,2025-01-13,Office Chair,Furniture,13,12000,156000
+1078,2025-01-25,Monitor,Electronics,6,15000,90000
+1079,2025-02-15,Monitor,Electronics,29,15000,435000
+1080,2025-02-27,Keyboard,Electronics,7,1500,10500
+1081,2025-01-24,Laptop,Electronics,18,55000,990000
+1082,2025-02-07,Laptop,Electronics,1,55000,55000
+1083,2025-02-22,Monitor,Electronics,15,15000,225000
+1084,2025-02-11,Pen Pack,Stationery,18,20,360
+1085,2025-02-07,Pen Pack,Stationery,20,20,400
+1086,2025-01-06,Monitor,Electronics,2,15000,30000
+1087,2025-01-30,File Folder,Stationery,6,30,180
+1088,2025-02-04,Pen Pack,Stationery,18,20,360
+1089,2025-01-11,Office Chair,Furniture,24,12000,288000
+1090,2025-01-07,Desk,Furniture,15,18000,270000
+1091,2025-02-01,Notebook,Stationery,19,100,1900
+1092,2025-01-06,Laptop,Electronics,21,55000,1155000
+1093,2025-02-14,Pen Pack,Stationery,7,20,140
+1094,2025-01-19,Printer,Electronics,4,22000,88000
+1095,2025-01-18,Mouse,Electronics,1,500,500
+1096,2025-02-04,Pen Pack,Stationery,28,20,560
+1097,2025-02-15,Monitor,Electronics,12,15000,180000
+1098,2025-01-21,Printer,Electronics,20,22000,440000
+1099,2025-03-01,Printer,Electronics,17,22000,374000
+1100,2025-02-26,Office Chair,Furniture,29,12000,348000
